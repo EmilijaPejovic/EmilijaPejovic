@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋, I'm Ema  
 
-<!--
-**EmilijaPejovic/EmilijaPejovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor in Computer Science  
+💻 Passionate about software development  
+🚀 Continuously learning and exploring new technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages:** Java, HTML, CSS, JavaScript, TypeScript, Python
+- **Frameworks & Libraries:** Angular  
+- **Mobile:** Android (Java, XML, SQLite)  
+- **Databases:** MySQL, SQLite  
+- **Other:** REST APIs  
+
+---
+
+## 📌 Current Focus
+- Developing **Zenlorien** – an Android app for supporting mental well-being ✨  
+- Expanding experience in **software development** and **Android app development**  
+- Sharpening problem-solving skills through projects and contributions  
+
+---
+
+## 🌱 Learning Goals
+- Strengthen **UI/UX design** skills  
+- Explore **backend development** (Node.js)  
+- Explore **cloud platforms** (Firebase)
+
+---
+
+## 📫 Connect with me
+- LinkedIn: [https://www.linkedin.com/in/emilija-pejovic/]  
+- Email: [emilijapejovic2000@gmail.com]  
+
+---
+⭐️ *Always eager to learn, build, and contribute!*  
