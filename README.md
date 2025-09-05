@@ -34,4 +34,12 @@
 - Email: [emilijapejovic2000@gmail.com]  
 
 ---
+
+## 🌍 Languages
+- **Serbian** (native)  
+- **English** (advanced, B2)  
+- **French** (basic, A2)
+
+---
+
 ⭐️ *Always eager to learn, build, and contribute!*  
