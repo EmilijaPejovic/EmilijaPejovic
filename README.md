@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Technologies & Tools
-- **Languages:** Java, HTML5, CSS3, TypeScript, JavaScript, TypeScript
+- **Languages:** Java, HTML5, CSS3, TypeScript, JavaScript
 - **Frameworks & Libraries:** Angular  
 - **Mobile:** Android (Java, XML, SQLite)  
 - **Databases:** MySQL, SQLite  
