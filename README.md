@@ -2,7 +2,7 @@
 
 🎓 Bachelor in Computer Science  
 💻 Focused on frontend and Android development
-🚀 Building real-world applications and continuously improving my skills
+🚀 Passionate about building real-world applications  
 
 ---
 
@@ -16,19 +16,20 @@
 ---
 
 ## 📌 Current Focus
-- Developing **Zenlorien** – an Android app for supporting mental well-being ✨  
-- Expanding experience in **software development** and **Android app development**  
-- Sharpening problem-solving skills through projects and contributions  
+- Developing an **e-commerce platform** for selling professional uniforms while learning React.js for frontend development  & Node.js for backend development 🛒
+- Building responsive, user-centered interfaces and integrating backend services
+- Developing **mobile application** focused on improving mental well-being ✨
 
 ---
 
 ## 🌱 Learning Goals
-- **UI/UX design principles**   
-- **Backend development (Node.js)** 
+- **UI/UX design principles**
+- **Backend (Node.js)**
+- **Full-stack development**
+- **iOS development**  
 - **Cloud platforms (Firebase)** 
 - **React.js**
-- **React Native**
-- **Flutter** 
+- **Mobile development (React Native / Flutter)**
 
 ---
 
