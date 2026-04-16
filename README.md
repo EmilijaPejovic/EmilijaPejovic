@@ -1,8 +1,8 @@
 +++# Hi there 👋, I'm Ema  
 
 🎓 Bachelor in Computer Science  
-💻 Passionate about software development  
-🚀 Continuously learning and exploring new technologies  
+💻 Focused on frontend and Android development 
+🚀 Building real-world applications and continuously improving my skills
 
 ---
 
@@ -23,10 +23,12 @@
 ---
 
 ## 🌱 Learning Goals
-- Strengthen **UI/UX design** skills  
-- Explore **backend development** (Node.js)  
-- Explore **cloud platforms** (Firebase)
-- Learn **React.js** (Framework)
+- **UI/UX design principles**   
+- **Backend development (Node.js)** 
+- **Cloud platforms (Firebase)** 
+- **React.js**
+- **React Native**
+- **Flutter** 
 
 ---
 
@@ -44,4 +46,4 @@
 
 ---
 
-⭐️ *Always eager to learn, build, and contribute!*  
+⭐️ *Always building, learning, and improving.*  
