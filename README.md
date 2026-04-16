@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ema  
++++# Hi there 👋, I'm Ema  
 
 🎓 Bachelor in Computer Science  
 💻 Passionate about software development  
@@ -31,13 +31,14 @@
 
 ## 📫 Connect with me
 - LinkedIn: [https://www.linkedin.com/in/emilija-pejovic/]  
-- Email: [emilijapejovic2000@gmail.com]  
+- Email: [emilijapejovic2000@gmail.com]
+- Portfolio [https://emilijapejovic.github.io/Emilija-Pejovic-Portfolio/]
 
 ---
 
 ## 🌍 Languages
-- **Serbian** (native)  
-- **English** (advanced, B2)  
+- **English** (advanced, B2)
+- **Serbian** (native)
 - **French** (basic, A2)
 
 ---
