@@ -7,10 +7,10 @@
 ---
 
 ## 🔧 Technologies & Tools
-- **Languages:** Java, HTML5, CSS3, TypeScript, JavaScript
+- **Languages:** Java, TypeScript, JavaScript, HTML5, CSS3
 - **Frameworks & Libraries:** Angular  
 - **Mobile:** Android (Java, XML, SQLite)  
-- **Databases:** MySQL, SQLite  
+- **Databases:** SQLite, MySQL 
 - **Other:** REST APIs  
 
 ---
@@ -26,6 +26,7 @@
 - Strengthen **UI/UX design** skills  
 - Explore **backend development** (Node.js)  
 - Explore **cloud platforms** (Firebase)
+- Learn **React.js** (Framework)
 
 ---
 
