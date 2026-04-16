@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ema  
 
 🎓 Bachelor in Computer Science  
-💻 Focused on frontend and Android development 
+💻 Focused on frontend and Android development
 🚀 Building real-world applications and continuously improving my skills
 
 ---
