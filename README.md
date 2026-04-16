@@ -1,4 +1,4 @@
-+++# Hi there 👋, I'm Ema  
+# Hi there 👋, I'm Ema  
 
 🎓 Bachelor in Computer Science  
 💻 Focused on frontend and Android development 
