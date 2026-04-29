@@ -32,6 +32,7 @@
 - **Cloud platforms (Firebase)** 
 - **React.js**
 - **Mobile development (React Native / Flutter)**
+- **Databases (SQL & database design)**
 
 ---
 
