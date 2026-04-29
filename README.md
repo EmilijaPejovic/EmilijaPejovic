@@ -8,6 +8,7 @@
 
 ## 🔧 Technologies & Tools
 - **Languages:** Java, TypeScript, JavaScript, HTML5, CSS3
+- **Query Languages:** SQL  
 - **Frameworks & Libraries:** Angular  
 - **Mobile:** Android (Java, XML, SQLite)  
 - **Databases:** SQLite, MySQL 
@@ -16,7 +17,7 @@
 ---
 
 ## 📌 Recent Work
-- Recently, I developed Intuicija Vino website — a **live, responsive websit**e created in collaboration with a graphic & visual designer 
+- Recently, I developed and deployed Intuicija Vino website — a **live, responsive websit**e created in collaboration with a graphic & visual designer 
 - Built responsive, user-centered interfaces and improved UI/UX
 - Managed **web hosting, deployment, and performance optimization**
 - Developed a mobile application focused on improving mental well-being ✨
